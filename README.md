@@ -6,7 +6,7 @@ Download CUDA from here: https://developer.nvidia.com/cuda-10.0-download-archive
 
 Download CUDNN from here: https://developer.nvidia.com
 
-To create a new anaconda environment with the name test_gpu
+To create a new anaconda environment with the name test_gpu (In anaconda prompt)
 ```bash
 conda activate test_gpu
 
